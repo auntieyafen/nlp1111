@@ -1,0 +1,9 @@
+[logger]
+level = "info"
+messageFormat = "%(asctime)s  %(message)s"
+
+[theme]
+primaryColor="#646464"
+backgroundColor="#000000"
+secondaryBackgroundColor="#0d0a66"
+textColor="#f9f965"
